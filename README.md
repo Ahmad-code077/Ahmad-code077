@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ahmad Mamoon
 - 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React + Tailwind
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 Everyone can reach me out through mail and linkedin.
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
 
