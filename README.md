@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ahmad Mamoon<br>- 👀 I’m interested in Frontend development<br>- 🌱 I’m currently learning Nextjs + TypeScript + Node.js + Express.js <br>- 💞️ I’m looking to collaborate on Node Express and Nextjs <br>- 📫 Everyone can reach me out through mail and linkedin.<br>- 😄 Pronouns: He/him
+👋 Hi, I am Ahmad Mamoon<br>- 👀 I’m interested in Frontend development<br>- 🌱 I’m currently learning Nextjs + TypeScript + Node.js + Express.js <br>- 💞️ I’m looking to collaborate on Node Express and Nextjs <br>- 📫 Everyone can reach me out through mail and linkedin.<br>- 😄 Pronouns: He/him
 
 
 ## 🌐 Socials:
