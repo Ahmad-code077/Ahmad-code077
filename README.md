@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working with Next.js and TypeScript.<br>🤝 Open to collaborating with Next.js developers, MERN stack developers, and JavaScript/TypeScript enthusiasts.<br>🌱 Learning the MERN stack to improve my full-stack skills.<br>💬 Happy to help with anything related to frontend development, React.js, or Next.js.<br>🎉 Fun Fact: I enjoy debugging, even when the problem is just a missing semicolon! 😄
+🔭 Currently working with Next.js and TypeScript.<br>🤝 Open to collaborating with Next.js developers, MERN stack developers, and JavaScript/TypeScript enthusiasts.<br>🌱 Learning System Design and DevOps.<br>💬 Happy to help with anything related to full stack development, React.js, or Next.js or MERN.<br>🎉 Fun Fact: I enjoy debugging, even when the problem is just a missing semicolon! 😄
 
 
 ## 🌐 Socials:
