@@ -14,7 +14,7 @@ Building products that people love to use
 
 ## Tech Stack
 
-##### Frontend
+#### Frontend
 React, Next.js, TypeScript, JavaScript, Redux, Tailwind CSS, Bootstrap, HTML5, CSS3, Chart.js, React Native, Babel, Webpack, Ant Design, Shadcn UI, React Router, React Hook Form, Zod, React Query
 
 <p align="left">
@@ -39,7 +39,7 @@ React, Next.js, TypeScript, JavaScript, Redux, Tailwind CSS, Bootstrap, HTML5, C
 <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer"> <img src="https://tanstack.com/favicon.ico" alt="react-query" width="40" height="40"/> </a>
 </p>
 
-##### Backend
+#### Backend
 Node.js, NestJS, Express.js, Python, GraphQL, TypeScript, NextAuth.js, Stripe, FastAPI
 
 <p align="left">
@@ -54,7 +54,7 @@ Node.js, NestJS, Express.js, Python, GraphQL, TypeScript, NextAuth.js, Stripe, F
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/favicon.png" alt="fastapi" width="40" height="40"/> </a>
 </p>
 
-##### Databases & ORMs
+#### Databases & ORMs
 MongoDB, PostgreSQL, MySQL, Redis, Cassandra, Firebase, Elasticsearch, Prisma, TypeORM, Supabase
 
 <p align="left">
@@ -70,7 +70,7 @@ MongoDB, PostgreSQL, MySQL, Redis, Cassandra, Firebase, Elasticsearch, Prisma, T
 <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> </a>
 </p>
 
-##### Cloud & DevOps
+#### Cloud & DevOps
 AWS, Google Cloud Platform (GCP), Docker, Kubernetes, Jenkins, Grafana, Nginx, Vercel, CI/CD (GitHub Actions)
 
 <p align="left">
@@ -85,7 +85,7 @@ AWS, Google Cloud Platform (GCP), Docker, Kubernetes, Jenkins, Grafana, Nginx, V
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="ci-cd" width="40" height="40"/> </a>
 </p>
 
-##### Real-Time & Message Brokers
+#### Real-Time & Message Brokers
 Apache Kafka, RabbitMQ, Socket.io, Pusher
 
 <p align="left">
@@ -95,7 +95,7 @@ Apache Kafka, RabbitMQ, Socket.io, Pusher
 <a href="https://pusher.com/" target="_blank" rel="noreferrer"> <img src="https://dashboard.pusher.com/favicon.ico" alt="pusher" width="40" height="40"/> </a>
 </p>
 
-##### Automation & AI Tools
+#### Automation & AI Tools
 n8n, make.com, AI SDK, Zapier
 
 <p align="left">
@@ -105,7 +105,7 @@ n8n, make.com, AI SDK, Zapier
 <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
 </p>
 
-##### Development Tools & Testing
+#### Development Tools & Testing
 Git, GitHub, Linux, Bash, Jest, Postman, VS Code
 
 <p align="left">
@@ -118,7 +118,7 @@ Git, GitHub, Linux, Bash, Jest, Postman, VS Code
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> </a>
 </p>
 
-##### Authentication & Authorization
+#### Authentication & Authorization
 Clerk, OAuth, NextAuth.js
 
 <p align="left">
@@ -127,7 +127,7 @@ Clerk, OAuth, NextAuth.js
 <a href="https://next-auth.js.org/" target="_blank" rel="noreferrer"> <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="nextauth" width="40" height="40"/> </a>
 </p>
 
-##### Problem Solving
+#### Problem Solving
 DSA (LeetCode)
 
 <p align="left">
